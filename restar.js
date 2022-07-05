@@ -4,5 +4,5 @@ function restar(numero1, numero2) {
     
 }
 
-console.log(restar(50,18))
 
+module.export={restar}
